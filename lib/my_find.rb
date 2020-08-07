@@ -8,4 +8,3 @@ def mdef my_find(collection)
   end
 end
 
-end
